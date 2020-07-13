@@ -24,7 +24,7 @@
     `chmod +x notitrans`
   
     `sudo mv notitrans /usr/local/bin/`
-- [🇧🇷] Cire um novo atalho de teclado para executar o script;
+- [🇧🇷] Crie um novo atalho de teclado para executar o script;
 - [🇺🇸] Create a new keyboard shortcut to run the script;
   - Example:
   ![](https://github.com/lyangmdrs/notitrans/blob/master/shortcut_example.png)
