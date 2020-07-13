@@ -28,7 +28,3 @@
 - [🇺🇸] Create a new keyboard shortcut to run the script;
   - Example:
   ![](https://github.com/lyangmdrs/notitrans/blob/master/shortcut_example.png)
-
-# How to configure the target language
-By default, the traget language in the script is Portuguese 🇧🇷. To set another language you need to edit the script in the highlighted part below.
-- `notify-send -i emblem-default " Tradução:" " &#96 ;xsel -o | sed ':a;N;$!ba;s/\n/ /g' | trans -b -t **pt** &#96 ;"`
