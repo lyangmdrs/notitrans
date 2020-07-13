@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+notify-send -i /usr/share/icons/mozc/product_icon_32bpp-128.png " Tradução:" "`xsel -o | sed ':a;N;$!ba;s/\n/ /g' | trans -b -t pt`"
+
