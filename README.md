@@ -35,5 +35,5 @@ By default, the target language in the script is Portuguese 🇧🇷. To set ano
 
 In this case **pt** is the code for Potuguese Language. You can see all the supported languages and their respective codes by typing `trans -R` in a terminal.
 
-To set the script to translate for Spanish, for example:
+To set the script to translate for Spanish :es:, for example:
 - notify-send -i emblem-default " Tradução:" "&#96;xsel -o | sed ':a;N;$!ba;s/\n/ /g' | trans -b -t **es**&#96;"
