@@ -8,7 +8,7 @@
 
 # Dependencies
 
-- notify-send (this tool is usually already installed on your system): `sudo apt install notify-osd`
+- notify-send (this tool is usually already installed on your system): `sudo apt install libnotify-bin`
 - xsel: `sudo apt install xsel`
 - translate-shell: `sudo apt install translate-shell`
 
