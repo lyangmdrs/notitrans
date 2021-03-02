@@ -1,8 +1,8 @@
 # notitrans
 
-[🇧🇷] Um script em shell que mostra uma notificação com uma tradução para o texto selecionado.
+[🇧🇷] Um script em bash que mostra uma notificação com uma tradução para o texto selecionado.
 
-[🇺🇸] A shell script that shows up a notification with a translation for the selected text.
+[🇺🇸] A bash script that shows up a notification with a translation for the selected text.
 
 ![](https://github.com/lyangmdrs/notitrans/blob/master/use_example.gif)
 
